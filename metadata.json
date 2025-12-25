@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Element Extractor",
+  "description": "Generate images using Gemini and intelligently extract specific elements as transparent PNGs.",
+  "requestFramePermissions": []
+}
